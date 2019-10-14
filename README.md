@@ -10,6 +10,7 @@
 - IS 5.6.0 - [support-6.0.14](https://github.com/wso2-support/identity-inbound-auth-oauth/tree/support-6.0.14)
 - IS 5.7.0 - [support-6.0.53](https://github.com/wso2-support/identity-inbound-auth-oauth/tree/support-6.0.53)
 - IS 5.8.0 - [support-6.0.168](https://github.com/wso2-support/identity-inbound-auth-oauth/tree/support-6.0.168)
+- IS 5.9.0 - [support-6.2.28](https://github.com/wso2-support/identity-inbound-auth-oauth/tree/support-6.2.28)
 
 For respective component of IS 5.1.0, refer https://github.com/wso2-attic/carbon-identity/tree/v5.0.7/components/oauth
 
@@ -23,3 +24,4 @@ For respective component of IS 5.1.0, refer https://github.com/wso2-attic/carbon
 - IS 5.6.0 : https://github.com/wso2/product-is/blob/v5.6.0/pom.xml#L1700
 - IS 5.7.0 : https://github.com/wso2/product-is/blob/v5.7.0/pom.xml#L1750
 - IS 5.8.0 : https://github.com/wso2/product-is/blob/v5.8.0/pom.xml#L1816
+- IS 5.9.0 : https://github.com/wso2/product-is/blob/v5.9.0/pom.xml#L1821
