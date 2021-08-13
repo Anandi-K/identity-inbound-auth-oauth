@@ -523,7 +523,7 @@ public abstract class AbstractAuthorizationGrantHandler implements Authorization
             }
             return refreshToken;
         } catch (OAuthSystemException e) {
-            throw new IdentityOAuth2Exception("Error while issueing refresh token");
+            throw new IdentityOAuth2Exception("Error while issuing refresh token");
         }
     }
 
